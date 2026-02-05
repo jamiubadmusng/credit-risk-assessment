@@ -274,7 +274,3 @@ For questions or collaboration, contact:
 - **GitHub:** [jamiubadmusng](https://github.com/jamiubadmusng)
 - **LinkedIn:** [Jamiu Olamilekan Badmus](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)
 - **Website:** [sites.google.com/view/jamiu-olamilekan-badmus](https://sites.google.com/view/jamiu-olamilekan-badmus/)
-
----
-
-*This analysis was conducted as part of a data science portfolio project.*
