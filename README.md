@@ -10,7 +10,7 @@
 **Email:** jamiubadmus001@gmail.com  
 **LinkedIn:** [Jamiu Olamilekan Badmus](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)  
 **GitHub:** [jamiubadmusng](https://github.com/jamiubadmusng)  
-**Website:** [jamiubadmus.com](https://sites.google.com/view/jamiu-olamilekan-badmus/)
+**Website:** [sites.google.com/view/jamiu-olamilekan-badmus](https://sites.google.com/view/jamiu-olamilekan-badmus/)
 
 ---
 
@@ -322,4 +322,4 @@ For questions or collaboration opportunities:
 - **Email**: jamiubadmus001@gmail.com
 - **LinkedIn**: [Jamiu Olamilekan Badmus](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)
 - **GitHub**: [jamiubadmusng](https://github.com/jamiubadmusng)
-- **Website**: [jamiubadmus.com](https://sites.google.com/view/jamiu-olamilekan-badmus/)
+- **Website**: [sites.google.com/view/jamiu-olamilekan-badmus](https://sites.google.com/view/jamiu-olamilekan-badmus/)
